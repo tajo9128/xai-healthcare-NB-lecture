@@ -17,6 +17,18 @@ Süleyman Demirel University · Universidad Panamericana · University of North 
 
 ---
 
+
+---
+
+## 🎓 Learn This Series as a Free Video Course
+
+These notebooks are taught as **AI in Healthcare: Diagnosis to Drug Discovery — The Trustworthy AI Track** on
+[**BioDockify Learn**](https://learn.biodockify.com) — 24 free AI-narrated video lessons: the healthcare-AI
+landscape, every XAI method in this repo (SHAP, LIME, GradCAM, GEMEX), EHR/imaging architectures, wearables,
+governance, adversarial security, and drug repositioning with XAI.
+
+**👉 Start free: [learn.biodockify.com](https://learn.biodockify.com)**
+
 ## 📋 Table of Contents
 
 - [About the Course](#-about-the-course)
